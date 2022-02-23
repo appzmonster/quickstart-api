@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{BDF8FB4A-056F-40C4-B82D-FFA51A1C027F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/App.Api/Controllers/WeatherForecastController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/App.Api/some-file.txt">
     <Files>
-      <File FileName="src/App.Api/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="src/App.Api/Controllers/WeatherForecastController.cs" Line="17" Column="11" />
+      <File FileName="src/App.Api/some-file.txt" Line="1" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Api" expanded="True">
             <Node name="App.Api" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="WeatherForecastController.cs" selected="True" />
-              </Node>
+              <Node name="some-file.txt" selected="True" />
             </Node>
           </Node>
         </State>
